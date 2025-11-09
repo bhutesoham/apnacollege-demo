@@ -1,3 +1,4 @@
 # apnacollege-demo
 This is my first Git repository
-Author - SOham Bhute
+<br>
+Author - Soham Bhute
